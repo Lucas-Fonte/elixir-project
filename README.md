@@ -1,13 +1,15 @@
-
 <p align="center">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="logo" width="100px">
+<div style="display: flex; justify-content: center; align-items: center;">
+<img src="./assets/elixir_logo.png" alt="logo" width="100px">
+<h2>.api</h2>
+</div>
 
 <h1 align="center"><i>elixir-project</i></h1>
 
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Code-technology-informational?style=flat&logo=technology&logoColor=white&color=2bbc8a" alt="image" />
+<img src="https://img.shields.io/badge/Elixir-technology-informational?style=flat&logo=elixir&logoColor=white&color=2bbc8a" alt="image" />
 
 </p>
 
@@ -15,7 +17,7 @@
 
 ## Summary
 
-Project summary
+Simple elixir api.
 
 ---
 
@@ -23,11 +25,11 @@ Project summary
 
 - ### Step 1
 
-    Installation example.
+  Installation example.
 
 - ### Step 2
 
-    Installation example.
+  Installation example.
 
 ---
 
