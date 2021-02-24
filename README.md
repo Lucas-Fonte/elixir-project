@@ -1,8 +1,5 @@
 <p align="center">
-<div style="display: flex; justify-content: center; align-items: center;">
 <img src="./assets/elixir_logo.png" alt="logo" width="100px">
-<h2>.api</h2>
-</div>
 
 <h1 align="center"><i>elixir-project</i></h1>
 
